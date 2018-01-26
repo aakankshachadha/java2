@@ -1,0 +1,5 @@
+1.true
+2. variable cant be private
+3.yes..solution to multiple inheritence
+5. Q.i
+8.yes
